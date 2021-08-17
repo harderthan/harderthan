@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Harderthan's github stats](https://github-readme-stats.vercel.app/api?username=harderthan)](https://github.com/harderthan/github-readme-stats)
 
 <!--
 **harderthan/harderthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
