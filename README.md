@@ -1,5 +1,6 @@
-[![Harderthan's github stats](https://github-readme-stats.vercel.app/api?username=harderthan)](https://github.com/harderthan/github-readme-stats)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kheo1772@gmail.com)](mailto:kheo1772@gmail.com)
 
+[![Harderthan's github stats](https://github-readme-stats.vercel.app/api?username=harderthan)](https://github.com/harderthan/github-readme-stats)
 <!--
 **harderthan/harderthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
