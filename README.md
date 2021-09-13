@@ -2,7 +2,7 @@
 
 [![Harderthan's github stats](https://github-readme-stats.vercel.app/api?username=harderthan)](https://github.com/harderthan/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harderthan)](https://solved.ac/harderthan)
+[![Harderthan's Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=harderthan)](https://solved.ac/harderthan)
 
 <!--
 **harderthan/harderthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
