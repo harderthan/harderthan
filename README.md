@@ -1,5 +1,3 @@
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kheo1772@gmail.com)](mailto:kheo1772@gmail.com)
-
 [![Harderthan's github stats](https://github-readme-stats.vercel.app/api?username=harderthan)](https://github.com/harderthan/github-readme-stats)
 
 <!-- [![Harderthan's Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={harderthan})](https://solved.ac/{harderthan}) -->
